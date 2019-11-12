@@ -13,8 +13,6 @@ A simple Spring Boot webapp using:
 * Pulling in Bootstrap from CDN.
 * Github OAuth
 
-#Instructions:
-
 # Running on Localhost.
 
 1.  You *must first* configure a GitHub OAuth app for http://localhost:8080 and obtain the client-id and client-secret.
