@@ -1,6 +1,10 @@
+# About:
 Lucas Nguyen (githubid: lucastnguyen)
+
 Section: Thurs 7:00-7:50pm
+
 web page: https://ucsb-cs56-f19.github.io/lab07-lucastnguyen/
+
 working app: https://cs56-f19-lab07-lucastnguyen.herokuapp.com/
 
 
@@ -9,6 +13,7 @@ A simple Spring Boot webapp using:
 * Pulling in Bootstrap from CDN.
 * Github OAuth
 
+#Instructions:
 
 # Running on Localhost.
 
