@@ -1,3 +1,8 @@
+Lucas Nguyen (githubid: lucastnguyen)
+Section: Thurs 7:00-7:50pm
+web page: https://ucsb-cs56-f19.github.io/lab07-lucastnguyen/
+
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
