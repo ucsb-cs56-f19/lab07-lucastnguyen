@@ -46,6 +46,7 @@
         <thead>
             <tr>
                 <th>id</th>
+                <th>title</th>
                 <th>place</th>
                 <th>mag</th>
             </tr>
@@ -53,6 +54,7 @@
         <tbody>
             <tr th:each="f: ${featureCollection.features}"> 
                 <td th:text="${f.id}"></td>
+                <td th:text="${f.properties.title}"></td>
                 <td th:text="${f.properties.place}"></td>
                 <td th:text="${f.properties.mag}"></td>
             </tr>
